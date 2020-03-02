@@ -17,3 +17,13 @@ Y
 )app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
 t
 Dapp/src/main/java/com/example/databinding_project/FavoriteHandler.kt,f/5/f5496d3004d3176c1510173f84d26bcdc1352b86
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+f
+6app/src/main/res/layout/activity_observable_fields.xml,7/a/7afa3650cce698b8e9ad30d139501df5a5bae9f7
+á
+Wapp/src/main/java/com/example/databinding_project/viewmodel/ObservableFieldsActivity.kt,4/e/4e3ca0fd074a278c5d311d5dee17eb8c6c938736
+~
+Napp/src/main/java/com/example/databinding_project/livedata/LiveDataActivity.kt,f/e/fe420f50fcfcd841c539e0f387c5b332c8264ef4
+Å
+Qapp/src/main/java/com/example/databinding_project/viewmodel/LoginFormViewModel.kt,8/3/8309091328a56db11a1c24a49e1fbced973d34ce
